@@ -1,3 +1,5 @@
 # git-github-demo
-This is my first git repository on this account <br><br>
-md - markdown format file
+This is my first git repository on this account <br>
+md represents markdown format file
+<br>
+~ represents Root Directory
